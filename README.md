@@ -1,0 +1,2 @@
+# AgenticAI
+AI based projects

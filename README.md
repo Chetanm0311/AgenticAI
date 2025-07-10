@@ -27,3 +27,6 @@ Simple integration and extensibility
 ## Contributing
 Pull requests are welcome for new AI micro-projects!
 Please add a clear README and sample usage in your folder.
+
+## NOTE
+Some of the really interesting projects are still in private directory :). feel free to reach out over email chetanmm0311@gmail.com
